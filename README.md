@@ -19,7 +19,7 @@ Paste kode nya
 
 Setelah di terminal
 
-Paste kode ini 'npx create-next-app@latest'
+Paste kode ini `npx create-next-app@latest`
  
 Muncul ini 
 
@@ -36,30 +36,30 @@ Enter enter aja
 
 selanjutnya
 
-- 'git add .'
- 'git init'
-- 'git add README.md'
-- 'git commit -m "first commit"'
-- 'git branch -M main'
-- 'git remote add origin' **https://github.com/pakekoderepositorikalian**
+- `git add .`
+- `git init`
+- `git add README.md`
+- `git commit -m "first commit"`
+- `git branch -M main`
+- `git remote add origin` **https://github.com/pakekoderepositorikalian**
 
 contoh **https://github.com/adryan/adryan.git**
 kalian bisa copy di github pas udah bikin repository baru kalau ada tulisan already exists lanjut ke step berikutnya
 
-- 'git push -u origin main'
+- `git push -u origin main`
 
 Kalau eror masuk ke setting user ada di sebelah kanan atas terus ke git provider lanjut permision di github nya centang semua
 
 Setelah itu 
 
-- 'npm init'
+- `npm init`
 
 pergi ke [npmjs.com]
 create akun
 Lanjut 
-- 'npm adduser'
+- `npm adduser`
 Copy Kode yg ada di terminal ( catatan sudah login di npmjs.com) contohnya seperti ini [https://www.npmjs.com/login?next=/login/cli/f] paste di browser 
-- 'npm publish'   
+- `npm publish`   
 
 
 Catatan Kalau misalkan Eror gak kedetek package.json cek di sebelah kiri ada berjejer folder 
@@ -75,7 +75,7 @@ Atau Kalau Misalkan Error nya Ada kata private
 Maka solusinya ketik nano package.json 
 Ubah True Jadi False Setelah itu ctrl+x+yes Enter 
 
-Run Ulang 'npm publish'
+Run Ulang `npm publish`
 
 DONE! 
 tunggu 4 hari agar masuk dan terverifikasi di TEA PROJECT
