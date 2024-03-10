@@ -54,7 +54,7 @@ Setelah itu
 
 - `npm init`
 
-pergi ke [npmjs.com]
+pergi ke [https://npmjs.com]
 create akun
 Lanjut 
 - `npm adduser`
