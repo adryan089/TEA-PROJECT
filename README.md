@@ -79,3 +79,26 @@ Run Ulang `npm publish`
 
 DONE! 
 tunggu 4 hari agar masuk dan terverifikasi di TEA PROJECT
+
+**Update tea :**
+Ubah version package json kalian ke 1.0.0 atau 1.1.2 
+
+Caranya ? 
+- Ke Gitpod kalian
+- Cari file Package json
+- Ubah version
+- Pojok kanan titik tiga klik, terus close saved.
+- Lanjut running npm publish ulang
+- Done
+
+**SOLUSI KETIKA MENGALAMI SCORE MERAH**
+dengan catatan project harus kedetek di TEA
+- buka [https://gitpod.com/]
+- tambahin perintah ini satu-persatu
+`npm i nama package`
+`npm init --scope=@your-username NPM`
+`npm adduser`
+`npm publish --access public`
+
+DONE!
+
