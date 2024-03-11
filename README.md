@@ -92,13 +92,23 @@ Caranya ?
 - Done
 
 **SOLUSI KETIKA MENGALAMI SCORE MERAH**
-dengan catatan project harus kedetek di TEA
-- buka [https://gitpod.com/]
+*dengan catatan project harus kedetek di TEA*
+- buka [https://gitpod.io/]
 - tambahin perintah ini satu-persatu
 `npm i nama package`
 `npm init --scope=@your-username NPM`
 `npm adduser`
 `npm publish --access public`
 
-DONE!
+DONE!,
 
+**Update!**
+jika project kalian sudah terdeteksi dan berhasil.. 
+- klik manual registration
+- download file **tea.yaml**
+- buka repository github kalian
+- upload file **tea.yaml** di luar direktory project
+- kembali ke [https://app.tea.xyz]
+- klik validate
+- kalau sudah jangan lupa stake point kalian untuk menyelesaikan misi stake
+- Done
