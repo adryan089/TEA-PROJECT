@@ -72,8 +72,8 @@ Nah Kalian Run cd skydashnew (ini hanya contoh)
 
 
 Atau Kalau Misalkan Error nya Ada kata private
-Maka solusinya ketik nano package.json 
-Ubah True Jadi False Setelah itu ctrl+x+yes Enter 
+Maka solusinya buka file package.json 
+cari kata private lalu hapus trus save
 
 Run Ulang `npm publish`
 
@@ -81,12 +81,13 @@ DONE!
 tunggu 4 hari agar masuk dan terverifikasi di TEA PROJECT
 
 **Update tea :**
-Ubah version package json kalian ke 1.0.0 atau 1.1.2 
+Ubah version package json kalian ke 1.1.4
 
 Caranya ? 
 - Ke Gitpod kalian
 - Cari file Package json
 - Ubah version
+- cari 
 - Pojok kanan titik tiga klik, terus close saved.
 - Lanjut running npm publish ulang
 - Done
