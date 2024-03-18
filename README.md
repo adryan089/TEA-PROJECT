@@ -85,9 +85,10 @@ Ubah version package json kalian ke 1.1.4
 
 Caranya ? 
 - Ke Gitpod kalian
-- Cari file Package json
+- Cari file Package.json
 - Ubah version
-- cari 
+- Cari kata "type"
+- hapus kata git dan .git diawal dan diakhir "url"="git+https://github.com/repositorimu.git"
 - Pojok kanan titik tiga klik, terus close saved.
 - Lanjut running npm publish ulang
 - Done
